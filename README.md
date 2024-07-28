@@ -14,7 +14,7 @@ I'll share my projects and papers here
 
 ## **Tableau** 
 
-[View Profile] (https://public.tableau.com/app/profile/francisco.navarro7243/vizzes)
+[View Profile](https://public.tableau.com/app/profile/francisco.navarro7243/vizzes)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
