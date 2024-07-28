@@ -6,7 +6,7 @@ Transitioning from a career as a Doctoral Researcher and seeking a full-time rol
 I'll share my projects and papers here
 
 ## **Power BI** 
-#### Project 1: Sales Analysis
+#### Project 1: Online Sales Data Marketplace
 [View Report](https://app.powerbi.com/view?r=eyJrIjoiYjU0MGFlMzktZGFlNC00OGE0LWJmNzUtZTJjMDZhYzU4YmMyIiwidCI6ImEyZTJiYTY0LWUwNTQtNDMxYS1hNWIyLTg5MjJmZjIyN2U3OSIsImMiOjR9)
 
 ## **Kaggle** 
