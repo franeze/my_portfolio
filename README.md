@@ -6,12 +6,15 @@ Transitioning from a career as a Doctoral Researcher and seeking a full-time rol
 I'll share my projects and papers here
 
 **Power BI** 
+
 https://app.powerbi.com/view?r=eyJrIjoiYjU0MGFlMzktZGFlNC00OGE0LWJmNzUtZTJjMDZhYzU4YmMyIiwidCI6ImEyZTJiYTY0LWUwNTQtNDMxYS1hNWIyLTg5MjJmZjIyN2U3OSIsImMiOjR9
 
 **Kaggle** 
+
 https://www.kaggle.com/franeze92
 
 **Tableau** 
+
 https://public.tableau.com/app/profile/francisco.navarro7243/vizzes
 
 <h3 align="left">Connect with me:</h3>
