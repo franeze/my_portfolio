@@ -14,7 +14,19 @@ I'll share my projects and papers here
 
 ## **Tableau** 
 
-[View Profile](https://public.tableau.com/app/profile/francisco.navarro7243/vizzes)
+[View Profile](https://public.tableau.com/app/profile/francisco.navarro7243/vizzes) 
+
+
+## **Published Research**
+[Outdoor culture of *Halamphora coffeaeformis* in the semi-arid Pampa of
+Argentina: A comprehensive analysis of triacylglycerol production
+for biodiesel](https://doi.org/10.1016/j.algal.2023.103170) in [Algal Research](https://www.sciencedirect.com/journal/algal-research)
+
+[Temperature and Salinity Effect on Tolerance and Lipid Accumulation
+in *Halamphora coffeaeformis*: an Approach for Outdoor Bioenergy
+Cultures](https://doi.org/10.1007/s12155-021-10349-2) in [BioEnergy Research](https://link.springer.com/journal/12155)
+
+[Three-Dimensional Reconstruction of Halamphora coffeaeformis Frustule from Scanning Electron Micrographs](https://doi.org/10.1017/S1431927620001154) in  [Microscopy and Microanalysis](https://www.cambridge.org/core/journals/microscopy-and-microanalysis)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
