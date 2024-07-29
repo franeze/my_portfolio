@@ -26,7 +26,7 @@ for biodiesel](https://doi.org/10.1016/j.algal.2023.103170) in [Algal Research](
 in *Halamphora coffeaeformis*: an Approach for Outdoor Bioenergy
 Cultures](https://doi.org/10.1007/s12155-021-10349-2) in [BioEnergy Research](https://link.springer.com/journal/12155)
 
-[Three-Dimensional Reconstruction of Halamphora coffeaeformis Frustule from Scanning Electron Micrographs](https://doi.org/10.1017/S1431927620001154) in  [Microscopy and Microanalysis](https://www.cambridge.org/core/journals/microscopy-and-microanalysis)
+[Three-Dimensional Reconstruction of *Halamphora coffeaeformis* Frustule from Scanning Electron Micrographs](https://doi.org/10.1017/S1431927620001154) in  [Microscopy and Microanalysis](https://www.cambridge.org/core/journals/microscopy-and-microanalysis)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
