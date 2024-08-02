@@ -7,6 +7,8 @@ Transitioning from a career as a Doctoral Researcher and seeking a full-time rol
 
 I'll share my projects and papers here
 
+#
+
 ## **Power BI** 
 #### Project 1: City Bike-Share Client Usage Trends
 [View Report](https://app.powerbi.com/view?r=eyJrIjoiNjJlNDQ1MGYtMjVmOS00NDY5LWI0NjEtNzc2ODZiM2I5OGNlIiwidCI6ImEyZTJiYTY0LWUwNTQtNDMxYS1hNWIyLTg5MjJmZjIyN2U3OSIsImMiOjR9)
