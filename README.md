@@ -1,13 +1,11 @@
 # Francisco_Navarro
-<h1 align="center">Hi 👋, I'm Francisco Navarro</h1>
-<h3 align="center">A Data Analist and PhD candidate</h3>
-Transitioning from a career as a Doctoral Researcher and seeking a full-time role in data analytics. Bringing a strong background in research methodologies, data analysis, and statistical techniques, with hands-on experience in SQL, R programming, spreadsheets and data visualization.
+<h1 align="center">Francisco Navarro</h1>
+<h3 align="center">Jr. Data Analyst/BI Analyst and PhD candidate</h3>
+Transitioning from a career as a Doctoral Researcher and seeking a full-time role in data analytics and BI. Bringing a strong background in research methodologies, data analysis, and statistical techniques, with hands-on experience in SQL, R programming, spreadsheets and data visualization.
 
-#
 
 I'll share my projects and papers here
 
-#
 
 ## **Power BI** 
 #### Project 1: City Bike-Share Client Usage Trends
