@@ -2,9 +2,8 @@
 
 ## Jr. Data Analyst/BI Analyst and PhD candidate
 
-<h1 align="center">Francisco Navarro</h1>
-<h3 align="center">Transitioning from a career as a Doctoral Researcher and seeking a full-time role in data analytics and BI. Bringing a strong background in research methodologies, data analysis, and statistical techniques, with hands-on experience in SQL, R programming, spreadsheets and data visualization.
-</h3>
+<h1 align="center">Transitioning from a career as a Doctoral Researcher and seeking a full-time role in data analytics and BI. Bringing a strong background in research methodologies, data analysis, and statistical techniques, with hands-on experience in SQL, R programming, spreadsheets and data visualization.
+</h1>
 
 
 Projects and papers here
