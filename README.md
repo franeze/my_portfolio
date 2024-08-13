@@ -26,6 +26,7 @@ The Project requirements document describes the overall purpose of the Cyclistic
 The Stakeholder requirements document outlines key stakeholder needs for developing a BI dashboard. It focuses on understanding customer usage patterns and demand at bike stations to guide strategic decisions for expansion and improvement.
 The Strategy document details the BI dashboard development plan, including data sources, user profiles, and dashboard features. It outlines access restrictions, data scope, and key metrics like heat maps and area charts to analyze bike usage, seasonal trends, and weather impacts. The document is in draft and has to be reviewed before implementation.</details>
 . 
+
 [Project requirements document (here)](Cyclistic_Bike_share_Project_requirements.pdf)
 
 [Stakeholder requirements document (here)](Cyclistic_Bike_Share_Sakeholders_req.pdf) 
@@ -39,6 +40,7 @@ The annual query was designed to retrieve annual relevant data; but i had a prob
 Finnaly, the summer query was performed without problems.
 </details>
 .
+
 [Zip codes data (here)](Cyclistic_NYC_zip_codes.csv)
 
 
@@ -51,6 +53,7 @@ Finnaly, the summer query was performed without problems.
 #### 3 - Dashboards
 <details> <summary> Details (click here) </summary> Before creating the dashboards, some calculations were first performed in Tableau </details>  
 .
+
 [Relationships (here)](Data_relationships_tableau.pdf)
 
 [Dashboards in Tableau (here)](https://public.tableau.com/app/profile/francisco.navarro7243/viz/CyclisticBike-ShareTrends/Story1)
