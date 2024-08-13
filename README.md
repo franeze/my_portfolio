@@ -27,7 +27,9 @@ The Stakeholder requirements document outlines key stakeholder needs for develop
 The Strategy document details the BI dashboard development plan, including data sources, user profiles, and dashboard features. It outlines access restrictions, data scope, and key metrics like heat maps and area charts to analyze bike usage, seasonal trends, and weather impacts. The document is in draft and has to be reviewed before implementation.</details>
   
 [Project requirements document (here)](Cyclistic_Bike_share_Project_requirements.pdf)
+
 [Stakeholder requirements document (here)](Cyclistic_Bike_Share_Sakeholders_req.pdf) 
+
 [Strategy document (here)](Cyclistic_Bike_share_Strategy_Document.pdf) 
 
 #### 2 - ETL code and SQL documents
