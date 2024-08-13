@@ -23,19 +23,20 @@ In this fictional scenario, I’ve joined the business intelligence team at Cycl
 [Stakeholder requirements document (here)](Cyclistic_Bike_share_Strategy_Document.pdf) This file details the BI dashboard development plan, including data sources, user profiles, and dashboard features. It outlines access restrictions, data scope, and key metrics like heat maps and area charts to analyze bike usage, seasonal trends, and weather impacts. The document is in draft and has to be reviewed before implementation.
 
 #### 2 - ETL code and SQL documents
+<details> <summary> Query details </summary>
+I created the queries for this scenario using BigQuery and leveraged BigQuery’s public datasets to develop the analysis. This approach allowed me to utilize large datasets for comprehensive insights and effective scenario modeling. Also i uploaded an additional file with the zip codes in NYC. 
+The annual query was designed to retrieve annual relevant data; but i had a problem, the zip codes coordinates were not recognized by Tableau, so i had to include them in que query. However, including variables such as stations and coordinates resulted in an excessively large file size that was impractical for download. Therefore, the coordinates were included in a second query to manage the data more efficiently.
+Finnaly, the summer query was performed without problems.
+</details>
 
-I created the queries for this scenario using BigQuery and leveraged BigQuery’s public datasets to develop the analysis. This approach allowed me to utilize large datasets for comprehensive insights and effective scenario modeling. Also i uploaded an additional file with the zip codes in NYC. The annual query was designed to retrieve annual relevant data; however, including variables such as stations and coordinates resulted in an excessively large file size that was impractical for download. Therefore, the coordinates are included in the subsequent query to manage the data more efficiently.
-
-
-[Zip codes file (here](Cyclistic NYC zip codes - list.csv)
+[Zip codes data (here)](Cyclistic_NYC_zip_codes.csv)
 
 
 [Annual Query (here)](Cyclistic_query_2022_2023.txt) 
 
 
-[Zip code coordinates Query (here)](Cyclistic_year_end_lat_long_query.txt) This query includes the coordinates of zip codes within the neighborhoods.
-
-[Query summer (here)](Cyclistic_summer_query.txt) The query was designed to retrieve summer relevant data
+[Zip code coordinates Query (here)](Cyclistic_year_end_lat_long_query.txt)
+[Summer Query (here)](Cyclistic_summer_query.txt)
 
 #### 3 - Dashboards
 <details> <summary> Details </summary> Before creating the dashboards, some calculations were first performed in Tableau </details>  
