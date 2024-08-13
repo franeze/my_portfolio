@@ -1,11 +1,11 @@
 
 # Jr. Data Analyst/BI Analyst and PhD candidate
-<h3 align="justify">Transitioning from a career as a Doctoral Researcher and seeking a full-time role in data analytics and BI. Bringing a strong background in research methodologies, data analysis, and statistical techniques, with hands-on experience in SQL, R programming, spreadsheets and data visualization.
-</h3>
+
+Transitioning from a career as a Doctoral Researcher and seeking a full-time role in data analytics and BI. Bringing a strong background in research methodologies, data analysis, and statistical techniques, with hands-on experience in SQL, R programming, spreadsheets and data visualization.
 
 #### Technical Skills: R, SQL, Power BI, Tableau, Statistics
 
-## Explore my [**Resume Here**](Navarro_FE_resume_08_07_2024.pdf)   
+## Explore my [Resume Here](Navarro_FE_resume_08_07_2024.pdf)   
 
 
 ## Projects and Papers
