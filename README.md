@@ -26,14 +26,14 @@ In this fictional scenario, I’ve joined the business intelligence team at Cycl
 
 I created the queries for this scenario using BigQuery and leveraged BigQuery’s public datasets to develop the analysis. This approach allowed me to utilize large datasets for comprehensive insights and effective scenario modeling. Also i uploaded an additional file with the zip codes in NYC. [Zip codes file (here) ](Cyclistic NYC zip codes - list.csv)
 
-[Query 2022 and 2023](Cyclistic_query_2022_2023.txt) The query was designed to retrieve annual relevant data; however, including variables such as stations and coordinates resulted in an excessively large file size that was impractical for download. Therefore, the coordinates are included in the subsequent query to manage the data more efficiently.
+[Query 2022 and 2023 (here)](Cyclistic_query_2022_2023.txt) The query was designed to retrieve annual relevant data; however, including variables such as stations and coordinates resulted in an excessively large file size that was impractical for download. Therefore, the coordinates are included in the subsequent query to manage the data more efficiently.
 
-[Query Zip code coordinates](Cyclistic_year_end_lat_long_query.txt) This query includes the coordinates of zip codes within the neighborhoods.
+[Query Zip code coordinates (here)](Cyclistic_year_end_lat_long_query.txt) This query includes the coordinates of zip codes within the neighborhoods.
 
-[Query summer](Cyclistic_summer_query.txt) The query was designed to retrieve summer relevant data
+[Query summer (here)](Cyclistic_summer_query.txt) The query was designed to retrieve summer relevant data
 
 #### 3 - Dashboards
-[Dashboards in Tableau Here](https://public.tableau.com/app/profile/francisco.navarro7243/viz/CyclisticBike-ShareTrends/Story1)
+[Dashboards in Tableau (here)](https://public.tableau.com/app/profile/francisco.navarro7243/viz/CyclisticBike-ShareTrends/Story1)
 
 _
 ## **Power BI** 
