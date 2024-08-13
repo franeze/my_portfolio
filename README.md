@@ -5,15 +5,8 @@
 
 #### Technical Skills: R, SQL, Power BI, Tableau, SQL
 
-## Education
-- Ph.D., Biology | Universidad Nacional del Sur, Argentina (_Finishing on November 2024_)								       					        		
--	BI Professional Certificate | Google (_August 2024_)
--	Data Analytics Professional Certificate | Google (_July 2024_)
--	AI Essentials | Google (_August 2024_)
--	Higher Diploma in Renewable Energy Economics | Universidad Nacional del Sur, Argentina (_Marcg 2022_)
--	B.S., Biology (6 year program) | Universidad Nacional del Sur, Argentina (_July 2017_)
-
-  
+## Explore my Resume Here
+[Resume](Navarro_FE_08_07_2024.pdf)   
 Projects and Papers
 
 ## **Power BI** 
