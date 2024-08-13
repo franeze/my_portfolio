@@ -32,7 +32,7 @@ I created the queries for this scenario using BigQuery and leveraged BigQuery’
 [Query summer](Cyclistic_summer_query.txt) The query was designed to retrieve summer relevant data
 
 #### 3 - Dashboards
-[**Dashboards in Tableau Here**](https://public.tableau.com/app/profile/francisco.navarro7243/viz/CyclisticBike-ShareTrends/Story1)
+[Dashboards in Tableau Here](https://public.tableau.com/app/profile/francisco.navarro7243/viz/CyclisticBike-ShareTrends/Story1)
 
 
 ## **Power BI** 
