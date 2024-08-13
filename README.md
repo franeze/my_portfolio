@@ -13,19 +13,19 @@ _
 
 ### Strategic Insights for a Fictional Bike Share Company: The Cyclistic Bike-Share Project BI
 
-<details> <summary>Scenario (click here)</summary>
+<details> <summary>Scenario (click here)</summary>  
 In this fictional scenario, I’ve joined the business intelligence team at Cyclistic, a fictional bike-share company in New York City. My role involves applying BI principles to analyze and enhance Cyclistic’s bike usage. I handled the data cleaning and processing through ETL (Extract, Transform, Load) using SQL, ensuring the datasets on bike trips and customer demographics are accurate and ready for analysis. I created a dashboard to provide insights into bike demand, considering factors like customer type, peak usage times, and weather conditions.
 <div style="text-align: center;"><img src="cyclistic_logo.png" alt="Example Image" width="200"/></div>
 
 </details>
-
+.
 
 #### 1 - Project Documents 
 <details> <summary> Documents details (click here) </summary>
 The Project requirements document describes the overall purpose of the Cyclistic project, including its goals and key dependencies. 
 The Stakeholder requirements document outlines key stakeholder needs for developing a BI dashboard. It focuses on understanding customer usage patterns and demand at bike stations to guide strategic decisions for expansion and improvement.
 The Strategy document details the BI dashboard development plan, including data sources, user profiles, and dashboard features. It outlines access restrictions, data scope, and key metrics like heat maps and area charts to analyze bike usage, seasonal trends, and weather impacts. The document is in draft and has to be reviewed before implementation.</details>
-  
+. 
 [Project requirements document (here)](Cyclistic_Bike_share_Project_requirements.pdf)
 
 [Stakeholder requirements document (here)](Cyclistic_Bike_Share_Sakeholders_req.pdf) 
@@ -38,7 +38,7 @@ I created the queries for this scenario using BigQuery and leveraged BigQuery’
 The annual query was designed to retrieve annual relevant data; but i had a problem, the zip codes coordinates were not recognized by Tableau, so i had to include them in que query. However, including variables such as stations and coordinates resulted in an excessively large file size that was impractical for download. Therefore, the coordinates were included in a second query to manage the data more efficiently.
 Finnaly, the summer query was performed without problems.
 </details>
-
+.
 [Zip codes data (here)](Cyclistic_NYC_zip_codes.csv)
 
 
@@ -50,7 +50,7 @@ Finnaly, the summer query was performed without problems.
 
 #### 3 - Dashboards
 <details> <summary> Details (click here) </summary> Before creating the dashboards, some calculations were first performed in Tableau </details>  
-
+.
 [Relationships (here)](Data_relationships_tableau.pdf)
 
 [Dashboards in Tableau (here)](https://public.tableau.com/app/profile/francisco.navarro7243/viz/CyclisticBike-ShareTrends/Story1)
