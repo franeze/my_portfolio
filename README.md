@@ -5,8 +5,7 @@
 
 #### Technical Skills: R, SQL, Power BI, Tableau, Statistics
 
-## Explore my Resume Here
-[Resume](Navarro_FE_08_07_2024.pdf)   
+## Explore my [**Resume Here**](Navarro_FE_08_07_2024.pdf)   
 Projects and Papers
 
 ## **Power BI** 
