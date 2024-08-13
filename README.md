@@ -12,7 +12,7 @@
 
 ### Strategic Insights for a Fictional Bike Share Company: The Cyclistic Bike-Share Project
 
-<h4 align="justify">In this fictional scenario, I’ve joined the business intelligence team at Cyclistic, a fictional bike-share company in New York City. My role involves applying BI principles to analyze and enhance Cyclistic’s bike usage. I handled the data cleaning and processing through ETL (Extract, Transform, Load) using SQL, ensuring the datasets on bike trips and customer demographics are accurate and ready for analysis. I created a dashboard to provide insights into bike demand, considering factors like customer type, peak usage times, and weather conditions. </h4>
+In this fictional scenario, I’ve joined the business intelligence team at Cyclistic, a fictional bike-share company in New York City. My role involves applying BI principles to analyze and enhance Cyclistic’s bike usage. I handled the data cleaning and processing through ETL (Extract, Transform, Load) using SQL, ensuring the datasets on bike trips and customer demographics are accurate and ready for analysis. I created a dashboard to provide insights into bike demand, considering factors like customer type, peak usage times, and weather conditions. 
 
 #### 1 - Project Documents  
 [Project requirements document (here)](Cyclistic_Bike_share_Project_requirements.pdf) This file describes the overall purpose of the Cyclistic project, including its goals and key dependencies. 
