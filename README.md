@@ -17,15 +17,33 @@
 <details>
 <summary> Click to view the documents </summary>
   
-[**Project requirements document**](Cyclistic_Bike_share_Project_requirements.pdf). This file describes the overall purpose of the Cyclistic project, including its goals and key dependencies. 
+[Project requirements document (here)](Cyclistic_Bike_share_Project_requirements.pdf)
 
-[**Stakeholder requirements document**](Cyclistic_Bike_Share_Sakeholders_req.pdf). This file outlines key stakeholder needs for developing a BI dashboard. It focuses on understanding customer usage patterns and demand at bike stations to guide strategic decisions for expansion and improvement.
 
-[**Stakeholder requirements document**](Cyclistic_Bike_share_Strategy_Document.pdf). This file details the BI dashboard development plan, including data sources, user profiles, and dashboard features. It outlines access restrictions, data scope, and key metrics like heat maps and area charts to analyze bike usage, seasonal trends, and weather impacts. The document is in draft and has to be reviewed before implementation.
+This file describes the overall purpose of the Cyclistic project, including its goals and key dependencies. 
+
+[Stakeholder requirements document (here)](Cyclistic_Bike_Share_Sakeholders_req.pdf)
+
+This file outlines key stakeholder needs for developing a BI dashboard. It focuses on understanding customer usage patterns and demand at bike stations to guide strategic decisions for expansion and improvement.
+
+[Stakeholder requirements document (here)](Cyclistic_Bike_share_Strategy_Document.pdf)
+
+This file details the BI dashboard development plan, including data sources, user profiles, and dashboard features. It outlines access restrictions, data scope, and key metrics like heat maps and area charts to analyze bike usage, seasonal trends, and weather impacts. The document is in draft and has to be reviewed before implementation.
+
 
 </details>
 
 
+<details>
+<summary> Click to view the ETL code and SQL documents </summary>
+  
+</details>
+<details>
+<summary> Click to see the Dashboards </summary>
+  
+[**Dashboards in Tableau Here**](https://public.tableau.com/app/profile/francisco.navarro7243/viz/CyclisticBike-ShareTrends/Story1)
+  
+</details>
 
 
 ## **Power BI** 
