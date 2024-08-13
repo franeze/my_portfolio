@@ -16,11 +16,12 @@ _
 <details> <summary>Scenario</summary>
 In this fictional scenario, I’ve joined the business intelligence team at Cyclistic, a fictional bike-share company in New York City. My role involves applying BI principles to analyze and enhance Cyclistic’s bike usage. I handled the data cleaning and processing through ETL (Extract, Transform, Load) using SQL, ensuring the datasets on bike trips and customer demographics are accurate and ready for analysis. I created a dashboard to provide insights into bike demand, considering factors like customer type, peak usage times, and weather conditions. </details>
 
+
 #### 1 - Project Documents 
 <details> <summary> Documents details </summary>
 The Project requirements document describes the overall purpose of the Cyclistic project, including its goals and key dependencies. 
 The Stakeholder requirements document outlines key stakeholder needs for developing a BI dashboard. It focuses on understanding customer usage patterns and demand at bike stations to guide strategic decisions for expansion and improvement.
-The Strategy document details the BI dashboard development plan, including data sources, user profiles, and dashboard features. It outlines access restrictions, data scope, and key metrics like heat maps and area charts to analyze bike usage, seasonal trends, and weather impacts. The document is in draft and has to be reviewed before implementation.
+The Strategy document details the BI dashboard development plan, including data sources, user profiles, and dashboard features. It outlines access restrictions, data scope, and key metrics like heat maps and area charts to analyze bike usage, seasonal trends, and weather impacts. The document is in draft and has to be reviewed before implementation.</details>
   
 [Project requirements document (here)](Cyclistic_Bike_share_Project_requirements.pdf)
 [Stakeholder requirements document (here)](Cyclistic_Bike_Share_Sakeholders_req.pdf) 
