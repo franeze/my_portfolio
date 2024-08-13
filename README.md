@@ -48,6 +48,7 @@ Finnaly, the summer query was performed without problems.
 
 
 [Zip code coordinates Query (here)](Cyclistic_year_end_lat_long_query.txt)
+
 [Summer Query (here)](Cyclistic_summer_query.txt)
 
 #### 3 - Dashboards
