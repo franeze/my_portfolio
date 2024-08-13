@@ -3,7 +3,7 @@
 <h3 align="justify">Transitioning from a career as a Doctoral Researcher and seeking a full-time role in data analytics and BI. Bringing a strong background in research methodologies, data analysis, and statistical techniques, with hands-on experience in SQL, R programming, spreadsheets and data visualization.
 </h3>
 
-#### Technical Skills: R, SQL, Power BI, Tableau, SQL
+#### Technical Skills: R, SQL, Power BI, Tableau, Statistics
 
 ## Explore my Resume Here
 [Resume](Navarro_FE_08_07_2024.pdf)   
