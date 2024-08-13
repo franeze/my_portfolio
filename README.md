@@ -2,6 +2,18 @@
 # Jr. Data Analyst/BI Analyst and PhD candidate
 <h3 align="justify">Transitioning from a career as a Doctoral Researcher and seeking a full-time role in data analytics and BI. Bringing a strong background in research methodologies, data analysis, and statistical techniques, with hands-on experience in SQL, R programming, spreadsheets and data visualization.
 </h3>
+
+#### Technical Skills: R, SQL, Power BI, Tableau, SQL
+
+## Education
+- Ph.D., Biology | Universidad Nacional del Sur, Argentina (_Finishing on November 2024_)								       					        		
+-	BI Professional Certificate | Google (_August 2024_)
+-	Data Analytics Professional Certificate | Google (_July 2024_)
+-	AI Essentials | Google (_August 2024_)
+-	Higher Diploma in Renewable Energy Economics | Universidad Nacional del Sur, Argentina (_Marcg 2022_)
+-	B.S., Biology (6 year program) | Universidad Nacional del Sur, Argentina (_July 2017_)
+
+  
 Projects and Papers
 
 ## **Power BI** 
