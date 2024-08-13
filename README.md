@@ -33,6 +33,8 @@ I created the queries for this scenario using BigQuery and leveraged BigQuery’
 [Query summer (here)](Cyclistic_summer_query.txt) The query was designed to retrieve summer relevant data
 
 #### 3 - Dashboards
+<details> <summary> Details </summary> Before creating the dashboards, some calculations were first performed in Tableau [(here)](Data_relationships_tableau.pdf) </details>
+
 [Dashboards in Tableau (here)](https://public.tableau.com/app/profile/francisco.navarro7243/viz/CyclisticBike-ShareTrends/Story1)
 
 _
