@@ -63,6 +63,7 @@ Finnaly, the summer query was performed without problems.
 .
 
 [Business Sumary (here) ](Cyclistic_business_summary.pdf)
+
 .
 _
 ## **Power BI** 
