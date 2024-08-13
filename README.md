@@ -5,9 +5,10 @@ Transitioning from a career as a Doctoral Researcher and seeking a full-time rol
 
 #### Technical Skills: R, SQL, Power BI, Tableau, Statistics
 
+-
 ## Explore my [Resume Here](Navarro_FE_resume_08_07_2024.pdf)   
 
-
+-
 ## Projects and Papers
 
 ### Strategic Insights for a Fictional Bike Share Company: The Cyclistic Bike-Share Project
@@ -34,7 +35,7 @@ I created the queries for this scenario using BigQuery and leveraged BigQuery’
 #### 3 - Dashboards
 [Dashboards in Tableau Here](https://public.tableau.com/app/profile/francisco.navarro7243/viz/CyclisticBike-ShareTrends/Story1)
 
-
+-
 ## **Power BI** 
 #### Project 1: City Bike-Share Client Usage Trends
 [View Report](https://app.powerbi.com/view?r=eyJrIjoiNjJlNDQ1MGYtMjVmOS00NDY5LWI0NjEtNzc2ODZiM2I5OGNlIiwidCI6ImEyZTJiYTY0LWUwNTQtNDMxYS1hNWIyLTg5MjJmZjIyN2U3OSIsImMiOjR9)
