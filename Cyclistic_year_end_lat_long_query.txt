@@ -1,0 +1,20 @@
+SELECT
+
+  DISTINCT CAST(ZIPEND.zip_code AS STRING) AS zip_end_start,
+
+  AVG(TRI.end_station_longitude) AS zip_end_long,
+  AVG(TRI.end_station_latitude) AS zip_end_lat
+FROM
+  `bigquery-public-data.new_york_citibike.citibike_trips` AS TRI
+INNER JOIN
+  `bigquery-public-data.geo_us_boundaries.zip_codes` ZIPEND
+  ON ST_WITHIN(
+    ST_GEOGPOINT(TRI.end_station_longitude, TRI.end_station_latitude),
+    ZIPEND.zip_code_geom)
+INNER JOIN
+  `Cyclistic.zip_codes` AS ZIPENDNAME
+  ON ZIPEND.zip_code = CAST(ZIPENDNAME.zip AS STRING)
+WHERE
+  EXTRACT(YEAR FROM DATE(TRI.starttime)) BETWEEN 2014 AND 2015
+GROUP BY
+  1
