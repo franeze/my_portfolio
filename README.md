@@ -66,7 +66,52 @@ Finnaly, the summer query was performed without problems.
 [Business Sumary (here) ](Cyclistic_business_summary.pdf)
 
 .
+### Usage Insights for a Fictional Bike Share Company: The Cyclistic Bike-Share Project Data Analysis
+
+
+<details> <summary>Scenario (click here)</summary>  
+In this project, I analyzed how annual members and casual riders use Cyclistic bikes differently to develop strategies for increasing annual memberships. The analysis aimed to uncover patterns in bike usage, understand key differences between membership types, and provide actionable insights for a targeted marketing strategy.
+<div style="text-align: center;"><img src="cyclistic_logo.png" alt="Example Image" width="200"/></div>
+
+</details>
+.
+
+#### 1 - Key Objectives:
+<details> <summary> (click here) </summary>
+
+- Analyze Usage Patterns: Explore and compare the usage behavior of annual members versus casual riders.
+
+- Identify Trends: Determine patterns in bike usage, including frequency, duration, and time of day.
+
+- Develop Strategies: Formulate recommendations to convert casual riders into annual members based on data-driven insights. 
+</details>
+
+#### 2 - Methodology:
+<details> <summary> (click here) </summary>
+The project utilized data analysis techniques to clean, transform, and visualize the data. Key steps included:
+
+- Data Cleaning: Addressed inconsistencies and missing values.
+
+- Exploratory Data Analysis: Conducted descriptive and statistical analyses to identify usage trends.
+
+- Visualization: Created visualizations to effectively communicate findings.
+
+- Reporting: Documented the analysis process and results to support strategic recommendations.
+
+</details>
+
+#### 3 - Outcome:
+<details> <summary> (click here) </summary> The findings provided a comprehensive understanding of bike usage patterns, highlighting opportunities for targeted marketing initiatives and membership growth. The project demonstrates proficiency in data analysis, visualization, and strategic planning. </details>  
+
+#### 4 - Report
+[Look at the report (Click here)](Data_Analysys_REPORT_Cyclistic_bike_share.pdf)
+
+#### 5 - Dashboard
+For a more comprehensive analysis, I created a dashboard in Tableau. [Click here to see it](https://public.tableau.com/app/profile/francisco.navarro7243/viz/CiclysticBike-Share/Dashboard1). 
+
+
 _
+
 ## **Power BI** 
 #### Project 1: City Bike-Share Client Usage Trends
 [View Report](https://app.powerbi.com/view?r=eyJrIjoiNjJlNDQ1MGYtMjVmOS00NDY5LWI0NjEtNzc2ODZiM2I5OGNlIiwidCI6ImEyZTJiYTY0LWUwNTQtNDMxYS1hNWIyLTg5MjJmZjIyN2U3OSIsImMiOjR9)
