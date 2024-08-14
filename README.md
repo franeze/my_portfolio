@@ -73,8 +73,6 @@ _
 #### Project 2: Online Sales Data Marketplace
 [View Report](https://app.powerbi.com/view?r=eyJrIjoiYjU0MGFlMzktZGFlNC00OGE0LWJmNzUtZTJjMDZhYzU4YmMyIiwidCI6ImEyZTJiYTY0LWUwNTQtNDMxYS1hNWIyLTg5MjJmZjIyN2U3OSIsImMiOjR9)
 
-## **Kaggle** 
-[View Profile](https://www.kaggle.com/franeze92)
 
 ## **Tableau** 
 
