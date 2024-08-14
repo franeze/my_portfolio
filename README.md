@@ -85,6 +85,7 @@ In this project, I analyzed how annual members and casual riders use Cyclistic b
 
 - Develop Strategies: Formulate recommendations to convert casual riders into annual members based on data-driven insights. 
 </details>
+.
 
 #### 2 - Methodology:
 <details> <summary> (click here) </summary>
@@ -99,9 +100,11 @@ The project utilized data analysis techniques to clean, transform, and visualize
 - Reporting: Documented the analysis process and results to support strategic recommendations.
 
 </details>
+.
 
 #### 3 - Outcome:
 <details> <summary> (click here) </summary> The findings provided a comprehensive understanding of bike usage patterns, highlighting opportunities for targeted marketing initiatives and membership growth. The project demonstrates proficiency in data analysis, visualization, and strategic planning. </details>  
+.
 
 #### 4 - Report
 [Look at the report (Click here)](Data_Analysys_REPORT_Cyclistic_bike_share.pdf)
