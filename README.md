@@ -10,6 +10,12 @@ _
 
 _
 ## Projects and Papers
+## Index
+- [Strategic Insights for a Fictional Bike Share Company: The Cyclistic Bike-Share Project BI](#strategic-insights-for-a-fictional-bike-share-company-the-cyclistic-bike-share-project-bi)
+- [Usage Insights for a Fictional Bike Share Company: The Cyclistic Bike-Share Project Data Analysis](#usage-insights-for-a-fictional-bike-share-company-the-cyclistic-bike-share-project-data-analysis)
+- [Power BI](#power-bi)
+- [Tableau](#tableau)
+- [Published Research](#published-research)
 
 ### Strategic Insights for a Fictional Bike Share Company: The Cyclistic Bike-Share Project BI
 
@@ -80,7 +86,7 @@ In this project, I analyzed how annual members and casual riders use Cyclistic b
 <details> <summary> (click here) </summary>
 
 - Analyze Usage Patterns: Explore and compare the usage behavior of annual members versus casual riders.
-_
+
   
 - Identify Trends: Determine patterns in bike usage, including frequency, duration, and time of day.
 _
@@ -120,14 +126,14 @@ For a more comprehensive analysis, I created a dashboard in Tableau. [Click here
 
 _
 
-## **Power BI** 
+### **Power BI** 
 #### Project 1: City Bike-Share Client Usage Trends
 [View Report](https://app.powerbi.com/view?r=eyJrIjoiNjJlNDQ1MGYtMjVmOS00NDY5LWI0NjEtNzc2ODZiM2I5OGNlIiwidCI6ImEyZTJiYTY0LWUwNTQtNDMxYS1hNWIyLTg5MjJmZjIyN2U3OSIsImMiOjR9)
 #### Project 2: Online Sales Data Marketplace
 [View Report](https://app.powerbi.com/view?r=eyJrIjoiYjU0MGFlMzktZGFlNC00OGE0LWJmNzUtZTJjMDZhYzU4YmMyIiwidCI6ImEyZTJiYTY0LWUwNTQtNDMxYS1hNWIyLTg5MjJmZjIyN2U3OSIsImMiOjR9)
 
 
-## **Tableau** 
+### **Tableau** 
 
 [View Profile](https://public.tableau.com/app/profile/francisco.navarro7243/vizzes) 
 
