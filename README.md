@@ -80,10 +80,10 @@ In this project, I analyzed how annual members and casual riders use Cyclistic b
 <details> <summary> (click here) </summary>
 
 - Analyze Usage Patterns: Explore and compare the usage behavior of annual members versus casual riders.
-
+.
   
 - Identify Trends: Determine patterns in bike usage, including frequency, duration, and time of day.
-
+.
 
 - Develop Strategies: Formulate recommendations to convert casual riders into annual members based on data-driven insights. 
 </details>
@@ -94,13 +94,13 @@ In this project, I analyzed how annual members and casual riders use Cyclistic b
 The project utilized data analysis techniques to clean, transform, and visualize the data. Key steps included:
 
 - Data Cleaning: Addressed inconsistencies and missing values.
-
+.
 
 - Exploratory Data Analysis: Conducted descriptive and statistical analyses to identify usage trends.
-
+.
 
 - Visualization: Created visualizations to effectively communicate findings.
-
+.
 
 - Reporting: Documented the analysis process and results to support strategic recommendations.
 
