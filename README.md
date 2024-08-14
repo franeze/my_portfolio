@@ -92,7 +92,7 @@ In this project, I analyzed how annual members and casual riders use Cyclistic b
 #### 2 - Methodology:
 <details> <summary> (click here) </summary>
 The project utilized data analysis techniques to clean, transform, and visualize the data. Key steps included:
-
+.
 - Data Cleaning: Addressed inconsistencies and missing values.
 .
 
