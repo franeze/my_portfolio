@@ -59,7 +59,7 @@ Finnaly, the summer query was performed without problems.
 
 [Dashboards in Tableau (here)](https://public.tableau.com/app/profile/francisco.navarro7243/viz/CyclisticBike-ShareTrends/Story1)
 
-#### 4 Business Sumary
+#### 4 - Business Sumary
 <details> <summary> Details (click here) </summary> This summary highlights how subscribers and non-subscribers differ in their usage, seasonal trends in bike usage, and the impact of weather conditions. It also provides actionable insights for strategic bike station placement, congestion management, operational adjustments, marketing, and service optimization to enhance overall performance and customer experience. Please follow the link for the full Business Summary. </details>  
 .
 
