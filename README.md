@@ -12,7 +12,6 @@ _
 <a href="https://www.linkedin.com/in/francisco-e-navarro/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/francisco-e-navarro/" height="30" width="40" /></a>
 </p>
 
-_
 ## Projects and Papers
 ## Index
 - [Strategic Insights for a Fictional Bike Share Company: The Cyclistic Bike-Share Project BI](#strategic-insights-for-a-fictional-bike-share-company-the-cyclistic-bike-share-project-bi)
