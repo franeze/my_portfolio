@@ -35,7 +35,7 @@ The Strategy document details the BI dashboard development plan, including data 
 
 #### 2 - ETL code and SQL documents
 <details> <summary> Query details (click here) </summary>
-I created the queries for this scenario using BigQuery and leveraged BigQuery’s public datasets to develop the analysis. This approach allowed me to utilize large datasets for comprehensive insights and effective scenario modeling. Also i uploaded an additional file with the zip codes in NYC. 
+I created the queries for this scenario using BigQuery and leveraged BigQuery’s public datasets to develop the analysis. This approach allowed me to utilize large datasets for comprehensive insights and effective scenario modeling. Also, i uploaded an additional file with the zip codes in NYC. 
 The annual query was designed to retrieve annual relevant data; but i had a problem, the zip codes coordinates were not recognized by Tableau, so i had to include them in que query. However, including variables such as stations and coordinates resulted in an excessively large file size that was impractical for download. Therefore, the coordinates were included in a second query to manage the data more efficiently.
 Finnaly, the summer query was performed without problems.
 </details>
