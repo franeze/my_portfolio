@@ -70,7 +70,7 @@ Finnaly, the summer query was performed without problems.
 
 
 <details> <summary>Scenario (click here)</summary>  
-In this project, I analyzed how annual members and casual riders use Cyclistic bikes differently to develop strategies for increasing annual memberships. The analysis aimed to uncover patterns in bike usage, understand key differences between membership types, and provide actionable insights for a targeted marketing strategy.
+In this project, I analyzed how annual members and casual riders use Cyclistic bikes differently to develop strategies for increasing annual memberships. The analysis aimed to uncover patterns in bike usage, understand key differences between membership types, and provide actionable insights for a targeted marketing strategy. I used R for data cleaning and analysis, and Tableau for creating visualizations to support the findings.
 <div style="text-align: center;"><img src="cyclistic_logo.png" alt="Example Image" width="200"/></div>
 
 </details>
@@ -81,7 +81,9 @@ In this project, I analyzed how annual members and casual riders use Cyclistic b
 
 - Analyze Usage Patterns: Explore and compare the usage behavior of annual members versus casual riders.
 
+  
 - Identify Trends: Determine patterns in bike usage, including frequency, duration, and time of day.
+
 
 - Develop Strategies: Formulate recommendations to convert casual riders into annual members based on data-driven insights. 
 </details>
@@ -93,9 +95,12 @@ The project utilized data analysis techniques to clean, transform, and visualize
 
 - Data Cleaning: Addressed inconsistencies and missing values.
 
+
 - Exploratory Data Analysis: Conducted descriptive and statistical analyses to identify usage trends.
 
+
 - Visualization: Created visualizations to effectively communicate findings.
+
 
 - Reporting: Documented the analysis process and results to support strategic recommendations.
 
