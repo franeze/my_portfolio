@@ -79,7 +79,7 @@ Finnaly, the summer query was performed without problems.
 
 
 <details> <summary>Scenario (click here)</summary>  
-In this project, I analyzed how annual members and casual riders use Cyclistic bikes differently to develop strategies for increasing annual memberships. The analysis aimed to uncover patterns in bike usage, understand key differences between membership types, and provide actionable insights for a targeted marketing strategy. I used R for data cleaning and analysis, and Tableau to create visualizations in a dashboard to support the findings. I created a report using R Markdown. Additionally, a different version of the report, performed with Python, is also included in the project.
+In this project, I analyzed how annual members and casual riders use Cyclistic bikes differently to develop strategies for increasing annual memberships. The analysis aimed to uncover patterns in bike usage, understand key differences between membership types, and provide actionable insights for a targeted marketing strategy. I used R for data cleaning and analysis, and Tableau to create visualizations in a dashboard to support the findings. I created a report using R Markdown. 
 <div style="text-align: center;"><img src="cyclistic_logo.png" alt="Example Image" width="200"/></div>
 
 </details>
@@ -122,7 +122,7 @@ _
 
 #### 4 - Report
 [Look at the report in R (Click here)](Data_Analysys_REPORT_Cyclistic_bike_share.pdf)
-[Look at the report in Python (Click here)](Python_Cyclistic_Bike_Share_DA_Report.html)
+
 #### 5 - Dashboard
 For a more comprehensive analysis, I created a dashboard in Tableau. [Click here to see it](https://public.tableau.com/app/profile/francisco.navarro7243/viz/CiclysticBike-Share/Dashboard1). 
 
