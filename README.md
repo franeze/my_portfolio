@@ -134,6 +134,8 @@ _
 Dive into a bit of scientific fun with this playful pH meter application! Created with Python’s Tkinter and Matplotlib, this app is all about simulating pH measurements with a touch of randomness for entertainment and learning. 
 <details><summary>Key features include: (Click here) </summary>
 
+<div style="text-align: center;"><img src="icono_pH.ico" alt="Example Image" width="100"/></div>
+
 **User Interface:** The Tkinter-based GUI allows users to input measurement intervals, start and stop measurements, and manage data files with ease.
   
 **Random Data Simulation:** Instead of real measurements, this app generates random pH values within your chosen range. It’s perfect for seeing "how data might look" without the need for actual lab equipment. (Disclaimer: This simulation does not represent an actual laboratory environment.)
