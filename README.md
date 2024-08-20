@@ -89,30 +89,27 @@ In this project, I analyzed how annual members and casual riders use Cyclistic b
 #### 1 - Key Objectives:
 <details> <summary> (click here) </summary>
 
-- Analyze Usage Patterns: Explore and compare the usage behavior of annual members versus casual riders.
+1 - Analyze Usage Patterns: Explore and compare the usage behavior of annual members versus casual riders.
 
   
-- Identify Trends: Determine patterns in bike usage, including frequency, duration, and time of day.
-_
+2 - Identify Trends: Determine patterns in bike usage, including frequency, duration, and time of day.
 
-- Develop Strategies: Formulate recommendations to convert casual riders into annual members based on data-driven insights. 
+
+3 - Develop Strategies: Formulate recommendations to convert casual riders into annual members based on data-driven insights. 
 </details>
 .
 
 #### 2 - Methodology:
 <details> <summary> (click here) </summary>
 The project utilized data analysis techniques to clean, transform, and visualize the data. Key steps included:
-_
-- Data Cleaning: Addressed inconsistencies and missing values.
-_
 
-- Exploratory Data Analysis: Conducted descriptive and statistical analyses to identify usage trends.
-_
+1 - Data Cleaning: Addressed inconsistencies and missing values.
 
-- Visualization: Created visualizations to effectively communicate findings.
-_
+2 - Exploratory Data Analysis: Conducted descriptive and statistical analyses to identify usage trends.
 
-- Reporting: Documented the analysis process and results to support strategic recommendations.
+3 - Visualization: Created visualizations to effectively communicate findings.
+
+4 - Reporting: Documented the analysis process and results to support strategic recommendations.
 
 </details>
 .
@@ -136,17 +133,17 @@ Dive into a bit of scientific fun with this playful pH meter application! Create
 
 <div style="text-align: center;"><img src="icono_pH.ico" alt="Example Image" width="100"/></div>
 
-**User Interface:** The Tkinter-based GUI allows users to input measurement intervals, start and stop measurements, and manage data files with ease.
+1 - User Interface: The Tkinter-based GUI allows users to input measurement intervals, start and stop measurements, and manage data files with ease.
   
-**Random Data Simulation:** Instead of real measurements, this app generates random pH values within your chosen range. It’s perfect for seeing "how data might look" without the need for actual lab equipment. (Disclaimer: This simulation does not represent an actual laboratory environment.)
+2 - Random Data Simulation: Instead of real measurements, this app generates random pH values within your chosen range. It’s perfect for seeing "how data might look" without the need for actual lab equipment. (Disclaimer: This simulation does not represent an actual laboratory environment.)
 
-**Real-Time Data Recording:** Simulated measurements are recorded in a CSV file, with automatic saving and real-time updates to a Treeview widget that displays pH values, date, and time.
+3 - Real-Time Data Recording: Simulated measurements are recorded in a CSV file, with automatic saving and real-time updates to a Treeview widget that displays pH values, date, and time.
 
-**Visualization:** Integrated Matplotlib plots pH values against time, updating dynamically as new simulated data is generated, offering a visual representation of the random measurements.
+4 - Visualization: Integrated Matplotlib plots pH values against time, updating dynamically as new simulated data is generated, offering a visual representation of the random measurements.
 
-**Data Management:** Users can create new files, open existing ones, and save data in a structured CSV format. The application includes options to save files under new names and load previously saved data.
+5 - Data Management: Users can create new files, open existing ones, and save data in a structured CSV format. The application includes options to save files under new names and load previously saved data.
 
-**Error Handling:** The app is designed to handle input errors and file issues, to provide feedback for invalid input and file operation errors.
+6 - Error Handling: The app is designed to handle input errors and file issues, to provide feedback for invalid input and file operation errors.
 
 This application is designed for fun and educational purposes, providing a simulated experience of pH measurement and data visualization.</details>
 .
