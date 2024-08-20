@@ -16,6 +16,7 @@ _
 ## Index
 - [Strategic Insights for a Fictional Bike Share Company: The Cyclistic Bike-Share Project BI](#strategic-insights-for-a-fictional-bike-share-company-the-cyclistic-bike-share-project-bi)
 - [Usage Insights for a Fictional Bike Share Company: The Cyclistic Bike-Share Project Data Analysis](#usage-insights-for-a-fictional-bike-share-company-the-cyclistic-bike-share-project-data-analysis)
+- [Random pH Meter App](#random-ph-meter-app)
 - [Power BI](#power-bi)
 - [Tableau](#tableau)
 - [Published Research](#published-research)
@@ -128,7 +129,24 @@ _
 #### 5 - Dashboard
 For a more comprehensive analysis, I created a dashboard in Tableau. [Click here to see it](https://public.tableau.com/app/profile/francisco.navarro7243/viz/CiclysticBike-Share/Dashboard1). 
 
+_
+### Random pH Meter App
+Dive into a bit of scientific fun with this playful pH meter application! Created with Python’s Tkinter and Matplotlib, this app is all about simulating pH measurements with a touch of randomness for entertainment and learning. 
+<details><summary>Key features include: (Click here) </summary>
 
+**User Interface:** The Tkinter-based GUI allows users to input measurement intervals, start and stop measurements, and manage data files with ease.
+  
+**Random Data Simulation:** Instead of real measurements, this app generates random pH values within your chosen range. It’s perfect for seeing "how data might look" without the need for actual lab equipment. (Disclaimer: This simulation does not represent an actual laboratory environment.)
+
+**Real-time Data Logging:** Simulated measurements are recorded in a CSV file, with automatic saving and real-time updates to a Treeview widget that displays pH values, date, and time.
+
+**Visualization:** Integrated Matplotlib plots pH values against time, updating dynamically as new simulated data is generated, offering a visual representation of the random measurements.
+
+**File Management:** Users can create new files, open existing ones, and save data in a structured CSV format. The application includes options to save files under new names and load previously saved data.
+
+**Error Handling:** The app is designed to handle input errors and file issues, to provide feedback for invalid input and file operation errors.
+
+This application is designed for fun and educational purposes, providing a simulated experience of pH measurement and data visualization.</details>
 _
 
 ### **Power BI** 
