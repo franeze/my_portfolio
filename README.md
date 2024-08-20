@@ -149,8 +149,9 @@ Dive into a bit of scientific fun with this playful pH meter application! Create
 **Error Handling:** The app is designed to handle input errors and file issues, to provide feedback for invalid input and file operation errors.
 
 This application is designed for fun and educational purposes, providing a simulated experience of pH measurement and data visualization.</details>
-
+.
 To access the code [click here](pHCSV.py)
+
 _
 
 ### **Power BI** 
