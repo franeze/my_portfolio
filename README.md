@@ -102,30 +102,30 @@ In this project, I analyzed smart device usage trends to inform strategic decisi
 This project applied data analysis techniques to clean, transform, and visualize data from a smart device usage dataset. The key steps involved:
 
 A. Data Cleaning:
-- Deduplication: Removed duplicate rows from the sleep_day dataset (no duplicates found in daily_activity or weight_info).
-- Handling Missing Values: Addressed missing values, notably removing the 'Fat' column from weight_info due to a high proportion of missing entries.
-- Date Conversion: Standardized date columns by converting them to datetime format for consistency.
+1 - Deduplication: Removed duplicate rows from the sleep_day dataset (no duplicates found in daily_activity or weight_info).
+2 - Handling Missing Values: Addressed missing values, notably removing the 'Fat' column from weight_info due to a high proportion of missing entries.
+3 - Date Conversion: Standardized date columns by converting them to datetime format for consistency.
 ///
 
 B. Data Transformation:
-- Feature Engineering: Added "Active minutes" and "Active distance" columns to daily_activity by summing related metrics. Added "NoSleepBedMin" to analyze the difference between total time in bed and minutes asleep.
-- Grouping & Aggregation: Aggregated data by day of the week to analyze average steps, sedentary minutes, calories, and sleep patterns.
+1 - Feature Engineering: Added "Active minutes" and "Active distance" columns to daily_activity by summing related metrics. Added "NoSleepBedMin" to analyze the difference between total time in bed and minutes asleep.
+2 - Grouping & Aggregation: Aggregated data by day of the week to analyze average steps, sedentary minutes, calories, and sleep patterns.
 ///
 
 C. Exploratory Data Analysis (EDA):
-- Descriptive Statistics: Generated summary statistics to understand central tendencies and variable distributions.
-- Merging Datasets: Combined daily_activity and sleep_day datasets to explore relationships between activity and sleep. Combined daily_activity and weight_info datasets to explore relationships between activity and weight.
-- Correlation Analysis: Computed correlation matrices and visualized relationships between activity and health metrics using heatmaps. Explored correlations within the merged dataset to assess the interaction between activity and sleep metrics.
-- Visualization: Created bar and regression plots to highlight:
-  - Average steps, sedentary minutes, and calories by day.
-  - Sleep metrics (records, minutes asleep, time in bed) by day.
-  - Weight and BMI (Body Mass Index).
-  - Correlations between activity variables, calories, sleep metrics and weight variables.
+1 - Descriptive Statistics: Generated summary statistics to understand central tendencies and variable distributions.
+2 - Merging Datasets: Combined daily_activity and sleep_day datasets to explore relationships between activity and sleep. Combined daily_activity and weight_info datasets to explore relationships between activity and weight.
+3 - Correlation Analysis: Computed correlation matrices and visualized relationships between activity and health metrics using heatmaps. Explored correlations within the merged dataset to assess the interaction between activity and sleep metrics.
+4 - Visualization: Created bar and regression plots to highlight(
+  a - Average steps, sedentary minutes, and calories by day.
+  b - Sleep metrics (records, minutes asleep, time in bed) by day.
+  c - Weight and BMI (Body Mass Index).
+  d - Correlations between activity variables, calories, sleep metrics and weight variables.)
 ///
 
 D. Reporting:
-- Documentation: The entire process, from data cleaning to transformation and visualization, was documented for clarity and reproducibility.
-- Key Findings: Summarized insights to support strategic recommendations based on the data analysis.
+1 - Documentation: The entire process, from data cleaning to transformation and visualization, was documented for clarity and reproducibility.
+2 - Key Findings: Summarized insights to support strategic recommendations based on the data analysis.
 </details>
 .
 
