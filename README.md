@@ -188,9 +188,11 @@ For a more comprehensive analysis, I created a dashboard in Tableau. [Click here
 _
 ### Random pH Meter App
 Dive into a bit of scientific fun with this playful pH meter application! Created with Python’s Tkinter and Matplotlib, this app is all about simulating pH measurements with a touch of randomness for entertainment and learning. 
+
+<div style="text-align: center;"><img src="random_pH_logo.png" alt="Example Image" width="200"/></div>
+
 <details><summary>Key features include: (Click here) </summary>
 
-<div style="text-align: center;"><img src="icono_pH.ico" alt="Example Image" width="100"/></div>
 
 1 - User Interface: The Tkinter-based GUI allows users to input measurement intervals, start and stop measurements, and manage data files with ease.
   
