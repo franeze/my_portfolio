@@ -186,7 +186,10 @@ The project utilized data analysis techniques to clean, transform, and visualize
 [Look at the report in Python (Click here)](Cyclistic_Bike_Share_Client_Usage_Report.pdf)
 
 #### 5 - Dashboard
-For a more comprehensive analysis, I created a dashboard in Tableau. [Click here to see it](https://public.tableau.com/app/profile/francisco.navarro7243/viz/CiclysticBike-Share/Dashboard1). 
+
+For a more comprehensive analysis, I created a dashboard in Power BI [Click here to see it.](https://app.powerbi.com/view?r=eyJrIjoiNjJlNDQ1MGYtMjVmOS00NDY5LWI0NjEtNzc2ODZiM2I5OGNlIiwidCI6ImEyZTJiYTY0LWUwNTQtNDMxYS1hNWIyLTg5MjJmZjIyN2U3OSIsImMiOjR9)
+
+Additionally, I created a dashboard in Tableau. [Click here to see it](https://public.tableau.com/app/profile/francisco.navarro7243/viz/CiclysticBike-Share/Dashboard1). 
 
 _
 ### Random pH Meter App
