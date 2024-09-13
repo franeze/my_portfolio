@@ -15,7 +15,7 @@ _
 ## Projects and Papers
 ## Index
 - [Strategic Insights for a Fictional Bike Share Company: The Cyclistic Bike-Share Project BI](#strategic-insights-for-a-fictional-bike-share-company-the-cyclistic-bike-share-project-bi)
-- [Smart Strategies for a Wellness Technology Company: Analyzing Data from a Health and Fitness Device](#smart-strategies-for-a-wellness-technology-company-analyzing-data-from-a-health-and-fitness-device)
+- [Smart Strategies for a Wellness Technology Company: Analyzing Data from a Health and Fitness Device](#smart-strategies-for-a-wellness-technology-company-analyzing-data-from-a-health-and-fitness-device) . Data Cleaning and Processing (ETL); Exploratory Data Analysis (EDA); Data Visualization; Statistical Analysis; Report. Python (Pandas, Matplotlib and Seaborn)
 - [Usage Insights for a Fictional Bike Share Company: The Cyclistic Bike-Share Project Data Analysis](#usage-insights-for-a-fictional-bike-share-company-the-cyclistic-bike-share-project-data-analysis)
 - [Random pH Meter App](#random-ph-meter-app)
 - [Power BI](#power-bi)
@@ -80,7 +80,7 @@ Finnaly, the summer query was performed without problems.
 
 <div style="text-align: center;"><img src="Wellness_LOGO.png" alt="Example Image" width="200"/></div>
 <details> <summary>Scenario (click here)</summary>  
-In this project, I analyzed smart device usage trends to inform strategic decisions for a wellness technology company. The focus was on understanding user interactions with smart devices, identifying key health and wellness metrics, and exploring correlations between various indicators. The goal was to leverage trends in health monitoring and personalization to guide marketing strategies and enhance product offerings. I used Python for data analysis and visualization, utilizing libraries such as Seaborn and Matplotlib to generate insightful charts. The findings were compiled into a comprehensive report in Jupyter Notebook, highlighting how the company can leverage these trends to better engage customers and improve their products.
+"In this project, I analyzed smart device usage trends to inform strategic decisions for a wellness technology company. The focus was on understanding user interactions with smart devices, identifying key health and wellness metrics, and exploring correlations between various indicators. The goal was to leverage trends in health monitoring and personalization to guide marketing strategies and enhance product offerings. I used Python for data analysis and visualization, utilizing libraries such as pandas, Seaborn, and Matplotlib to clean, process, and generate insightful charts. The findings were compiled into a comprehensive report in Jupyter Notebook, highlighting how the company can leverage these trends to better engage customers and improve their products."
 
 
 </details>
