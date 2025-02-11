@@ -3,7 +3,7 @@
 
 Transitioning from a career as a Doctoral Researcher and seeking a full-time role in data analytics and BI. Bringing a strong background in research methodologies, data analysis, and statistical techniques, with hands-on experience in SQL, R programming, spreadsheets and data visualization.
 
-#### Technical Skills: R, Python, SQL, Power BI, Tableau, Statistics
+#### Technical Skills: Python, SQL, R, Power BI, Tableau, Statistics
 
 <a href="https://www.credly.com/badges/3ddb97db-6a49-4e04-bad1-4398c11deaeb">
   <img src="google-advanced-data-analytics-certificate.png" alt="google-advanced-data-analytics" width="150" height="126" />
