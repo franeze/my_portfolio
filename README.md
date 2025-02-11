@@ -17,7 +17,7 @@ Transitioning from a career as a Doctoral Researcher and seeking a full-time rol
 </a>
 <a href="https://www.credly.com/badges/84f7e9f1-44cc-41d1-90d5-21186a118ccf/public_url">
   <img src="google-ai-essentials.png" alt="google-ai-essentials" width="125" height="105" />
-</a>
+
 _
 
 ## Explore my [Resume Here](Navarro_FE_resume_080225.pdf)   
