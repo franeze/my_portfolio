@@ -24,13 +24,25 @@ _
 
 ## Projects and Papers
 ## Index
-- [Strategic Insights for a Bike Share Company: The Cyclistic Bike-Share Project BI](#strategic-insights-for-a-bike-share-company-the-cyclistic-bike-share-project-bi) . Data Cleaning and Processing (ETL); Exploratory Data Analysis (EDA); Data Visualization; Dashboard Creation; SQL; Tableau.
-- [Smart Strategies for a Wellness Technology Company: Analyzing Data from a Health and Fitness Device](#smart-strategies-for-a-wellness-technology-company-analyzing-data-from-a-health-and-fitness-device) . Data Cleaning and Processing (ETL); Exploratory Data Analysis (EDA); Data Visualization; Statistical Analysis; Report. Python (Pandas, Matplotlib and Seaborn).
-- [Usage Insights for a Fictional Bike Share Company: The Cyclistic Bike-Share Project Data Analysis](#usage-insights-for-a-fictional-bike-share-company-the-cyclistic-bike-share-project-data-analysis) Data Cleaning and Processing (ETL); Exploratory Data Analysis (EDA); Data Visualization; Report; R (ggplot2, tidyr, dplyr, skimr, janitor, here, lubridate); Python (pandas, numpy, matplotlib, seaborn); Power BI; Tableau.
+- [HR project: Predicting Employee Attrition with Machine Learning](hr-project-predicting-employee-attrition-with-machine-learning) . Data Cleaning, Exploratory Data Análysis (EDA), Decision Tree, Random Forest, Machine Learning, Python (numpy, pandas, matplotlib, seaborn, plotly, scikit-learn, pickle)
+- [Strategic Insights for a Bike Share Company: The Cyclistic Bike-Share Project BI](#strategic-insights-for-a-bike-share-company-the-cyclistic-bike-share-project-bi) . Data Cleaning and Processing (ETL), Exploratory Data Analysis (EDA), Data Visualization, Dashboard Creation, SQL, Tableau.
+- [Smart Strategies for a Wellness Technology Company: Analyzing Data from a Health and Fitness Device](#smart-strategies-for-a-wellness-technology-company-analyzing-data-from-a-health-and-fitness-device) . Data Cleaning and Processing (ETL), Exploratory Data Analysis (EDA), Data Visualization, Statistical Analysis, Report. Python (Pandas, Matplotlib and Seaborn).
+- [Usage Insights for a Fictional Bike Share Company: The Cyclistic Bike-Share Project Data Analysis](#usage-insights-for-a-fictional-bike-share-company-the-cyclistic-bike-share-project-data-analysis) Data Cleaning and Processing (ETL), Exploratory Data Analysis (EDA), Data Visualization, Report, R (ggplot2, tidyr, dplyr, skimr, janitor, here, lubridate), Python (pandas, numpy, matplotlib, seaborn), Power BI, Tableau.
 - [Random pH Meter App](#random-ph-meter-app)
 - [Power BI](#power-bi)
 - [Tableau](#tableau)
 - [Published Research](#published-research)
+
+
+### HR project: Predicting Employee Attrition with Machine Learning
+<div style="text-align: center;"><img src="employee_attrition.jpg" alt="Example Image" width="300"/></div>
+<details> <summary>Scenario (click here)</summary>  
+
+Employee turnover can be costly for businesses. This project analyzes HR data to identify key factors influencing employee attrition and builds a predictive model using machine learning. By leveraging algorithms like Random Forest and Decision Tree, the project provides data-driven insights to help HR teams improve employee retention strategies. The dataset, sourced from Kaggle, includes job satisfaction, performance evaluations, salary levels, and more. Through exploratory data analysis and model evaluation, this project highlights actionable trends to reduce employee churn.
+
+[Click here to access the project](https://github.com/franeze/HR_RandomForestPy)
+
+</details>
 
 ### Strategic Insights for a Bike Share Company: The Cyclistic Bike-Share Project BI
 <div style="text-align: center;"><img src="CyclisticLogo.png" alt="Example Image" width="200"/></div>
