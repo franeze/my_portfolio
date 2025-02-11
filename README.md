@@ -44,9 +44,10 @@ _
 
 Employee turnover can be costly for businesses. This project analyzes HR data to identify key factors influencing employee attrition and builds a predictive model using machine learning. By leveraging algorithms like Random Forest and Decision Tree, the project provides data-driven insights to help HR teams improve employee retention strategies. The dataset, sourced from Kaggle, includes job satisfaction, performance evaluations, salary levels, and more. Through exploratory data analysis and model evaluation, this project highlights actionable trends to reduce employee churn.
 
-[Click here to access the project](https://github.com/franeze/HR_RandomForestPy)
 
 </details>
+[Click here to access the project](https://github.com/franeze/HR_RandomForestPy)
+
 
 ### Strategic Insights for a Bike Share Company: The Cyclistic Bike-Share Project BI
 <div style="text-align: center;"><img src="CyclisticLogo.png" alt="Example Image" width="200"/></div>
