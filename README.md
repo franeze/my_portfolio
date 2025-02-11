@@ -1,7 +1,7 @@
 
 # Data Analyst/ Jr. Data Scientist - PhD
 
-Transitioning from a career as a Doctoral Researcher and seeking a full-time role in data analytics and BI. Bringing a strong background in research methodologies, data analysis, and statistical techniques, with hands-on experience in SQL, R programming, spreadsheets and data visualization.
+Transitioning from a career as a Doctoral Researcher and seeking a full-time role in data analytics and BI. Bringing a strong background in research methodologies, data analysis, and statistical techniques, with hands-on experience in Python for data analysis, SQL, R programming, spreadsheets and data visualization.
 
 #### Technical Skills: Python, SQL, R, Power BI, Tableau, Statistics
 
