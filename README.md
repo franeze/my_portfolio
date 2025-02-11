@@ -5,6 +5,9 @@ Transitioning from a career as a Doctoral Researcher and seeking a full-time rol
 
 #### Technical Skills: R, Python, SQL, Power BI, Tableau, Statistics
 
+<a href="https://www.credly.com/badges/3ddb97db-6a49-4e04-bad1-4398c11deaeb">
+  <img src="google-data-analytics-professional-certificate.2.png" alt="google-data-analytics" width="150" height="126" />
+</a>
 <a href="https://www.credly.com/badges/1b5db2ce-5de7-499a-bbf3-a7b63e490f01/public_url">
   <img src="google-data-analytics-professional-certificate.2.png" alt="google-data-analytics" width="150" height="126" />
 </a>
