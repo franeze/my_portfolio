@@ -39,13 +39,18 @@ _
 
 
 ### HR project: Predicting Employee Attrition with Machine Learning
-<div style="text-align: center;"><img src="employee_attrition.jpg" alt="Example Image" width="300"/></div>
+<div style="text-align: center;">
+  <a href="https://github.com/franeze/HR_RandomForestPy" target="_blank">
+    <img src="employee_attrition.jpg" alt="Example Image" width="300"/>
+  </a>
+</div>
 <details> <summary>Scenario (click here)</summary>  
 
 Employee turnover can be costly for businesses. This project analyzes HR data to identify key factors influencing employee attrition and builds a predictive model using machine learning. By leveraging algorithms like Random Forest and Decision Tree, the project provides data-driven insights to help HR teams improve employee retention strategies. The dataset, sourced from Kaggle, includes job satisfaction, performance evaluations, salary levels, and more. Through exploratory data analysis and model evaluation, this project highlights actionable trends to reduce employee churn.
 
 
 </details>
+
 [Click here to access the project](https://github.com/franeze/HR_RandomForestPy)
 
 
