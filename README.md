@@ -69,7 +69,7 @@ Employee turnover can be costly for businesses. This project analyzes HR data to
 
 
 ### TikTok: Claims vs. Opinions. Machine Learning for Classifying User Reports
-<div style="text-align: center;"><img src="tik_tok_logo2.jpg" alt="Example Image" width="200"/></div>
+<div style="text-align: center;"><img src="tik_tok_logo2.jpg" alt="Example Image" width="300"/></div>
 <details> <summary>Scenario (click here)</summary> 
 This fictional  project aims to support TikTok's report system in classifying user reports of videos as either claims or opinions. The analysis begins with preliminary data exploration, followed by exploratory data analysis (EDA) to identify key trends in user engagement. Hypothesis testing, is performed to validate the impact of different factors on video reports. The project then employs machine learning techniques, including Logistic Regression, Random Forest, and XGBoost, to develop a model for classifying reports. Through these models, the project provides insights into improving TikTok’s content moderation system. The dataset used for this project includes variables such as view, like, and comment counts, sourced directly from TikTok’s platform.
 
