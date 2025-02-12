@@ -37,7 +37,7 @@ _
 - [TikTok: Claims vs. Opinions. Machine Learning for Classifying User Reports](#tiktok-claims-vs-opinions-machine-learning-for-classifying-user-reports)<br>
 <small>Data Cleaning, Exploratory Data Analysis (EDA), Hypothesis Testing, A/B Testing, Logistic Regression, Random Forest, XGBoost, Machine Learning, Python (numpy, pandas, matplotlib, seaborn, Scipy, statsmodels, scikit-learn, pickle)</small>
 
-- [Strategic Insights for a Bike Share Company: The Cyclistic Bike-Share Project BI](#strategic-insights-for-a-bike-share-company-the-cyclistic-bike-share-project-bi) <br>
+- [Business Intelligence project: Strategic Insights for a Bike Share Company](#business-intelligence-project-strategic-insights-for-a-bike-share-company) <br>
 <small>Data Cleaning and Processing (ETL), Exploratory Data Analysis (EDA), Data Visualization, Dashboard Creation, SQL, Tableau.</small>
 
 - [Smart Strategies for a Wellness Technology Company: Analyzing Data from a Health and Fitness Device](#smart-strategies-for-a-wellness-technology-company-analyzing-data-from-a-health-and-fitness-device) <br> 
@@ -78,6 +78,7 @@ This fictional  project aims to support TikTok's report system in classifying us
 [Click here to access the project](https://github.com/franeze/TikTok_Claim_ML/blob/main/README.md)
 
 ### Strategic Insights for a Bike Share Company: The Cyclistic Bike-Share Project BI
+### Business Intelligence project: Strategic Insights for a Bike Share Company
 <div style="text-align: center;"><img src="Bike_Share.jpg" alt="Example Image" width="500"/></div>
 <details> <summary>Scenario (click here)</summary>  
 In this fictional scenario, with real-world data, I’ve joined the business intelligence team at Cyclistic, a fictional bike-share company in New York City. My role involves applying BI principles to analyze and enhance Cyclistic’s bike usage. I handled the data cleaning and processing through ETL (Extract, Transform, Load) using SQL, ensuring the datasets on bike trips and customer demographics are accurate and ready for analysis. I performed exploratory analysis on real-world data and generated insights that lead to actionable recommendations. I created a dashboard to provide insights into bike demand, considering factors like customer type, peak usage times, and weather conditions.
