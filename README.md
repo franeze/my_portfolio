@@ -286,6 +286,9 @@ _
 
 
 ## **Published Research**
+
+[PhD Thesis: Biorrefinería microalgal destinada a la producción sustentable de aceites óptimos para biodiésel y sílice amorfa como un co-producto de valor agregado](https://repositoriodigital.uns.edu.ar/handle/123456789/7065)
+
 [Outdoor culture of *Halamphora coffeaeformis* in the semi-arid Pampa of
 Argentina: A comprehensive analysis of triacylglycerol production
 for biodiesel](https://doi.org/10.1016/j.algal.2023.103170) in [Algal Research](https://www.sciencedirect.com/journal/algal-research)
