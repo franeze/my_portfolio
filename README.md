@@ -65,7 +65,7 @@ Employee turnover can be costly for businesses. This project analyzes HR data to
 
 </details>
 
-[Click here to access the project](https://github.com/franeze/TikTok_Claim_ML/blob/main/README.md)
+[Click here to access the project](https://github.com/franeze/HR_RandomForestPy/blob/main/HR_RandomForest_porject.ipynb)
 
 
 ### TikTok: Claims vs. Opinions. Machine Learning for Classifying User Reports
@@ -75,7 +75,7 @@ This fictional  project aims to support TikTok's report system in classifying us
 
 </details>
 
-[Click here to access the project](https://github.com/franeze/TikTok_Claim_ML)
+[Click here to access the project](https://github.com/franeze/TikTok_Claim_ML/blob/main/README.md)
 
 ### Strategic Insights for a Bike Share Company: The Cyclistic Bike-Share Project BI
 <div style="text-align: center;"><img src="CyclisticLogo.png" alt="Example Image" width="200"/></div>
