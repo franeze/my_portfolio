@@ -78,57 +78,14 @@ This fictional  project aims to support TikTok's report system in classifying us
 [Click here to access the project](https://github.com/franeze/TikTok_Claim_ML/blob/main/README.md)
 
 ### Strategic Insights for a Bike Share Company: The Cyclistic Bike-Share Project BI
-<div style="text-align: center;"><img src="CyclisticLogo.png" alt="Example Image" width="200"/></div>
+<div style="text-align: center;"><img src="Bike_Share.jpg" alt="Example Image" width="500"/></div>
 <details> <summary>Scenario (click here)</summary>  
 In this fictional scenario, with real-world data, I’ve joined the business intelligence team at Cyclistic, a fictional bike-share company in New York City. My role involves applying BI principles to analyze and enhance Cyclistic’s bike usage. I handled the data cleaning and processing through ETL (Extract, Transform, Load) using SQL, ensuring the datasets on bike trips and customer demographics are accurate and ready for analysis. I performed exploratory analysis on real-world data and generated insights that lead to actionable recommendations. I created a dashboard to provide insights into bike demand, considering factors like customer type, peak usage times, and weather conditions.
 
 </details>
-.
 
-#### 1 - Project Documents 
-<details> <summary> Documents details (click here) </summary>
-The Project requirements document describes the overall purpose of the Cyclistic project, including its goals and key dependencies. 
-The Stakeholder requirements document outlines key stakeholder needs for developing a BI dashboard. It focuses on understanding customer usage patterns and demand at bike stations to guide strategic decisions for expansion and improvement.
-The Strategy document details the BI dashboard development plan, including data sources, user profiles, and dashboard features. It outlines access restrictions, data scope, and key metrics like heat maps and area charts to analyze bike usage, seasonal trends, and weather impacts. The document is in draft and has to be reviewed before implementation.</details>
-. 
+[Click here to access the project](https://github.com/franeze/Bike_Share_BI/blob/main/README.md)
 
-[Project requirements document (here)](Cyclistic_Bike_share_Project_requirements.pdf)
-
-[Stakeholder requirements document (here)](Cyclistic_Bike_Share_Sakeholders_req.pdf) 
-
-[Strategy document (here)](Cyclistic_Bike_share_Strategy_Document.pdf) 
-
-#### 2 - ETL code and SQL documents
-<details> <summary> Query details (click here) </summary>
-I created the queries for this scenario using BigQuery and leveraged BigQuery’s public datasets to develop the analysis. This approach allowed me to utilize large datasets for comprehensive insights and effective scenario modeling. Also, i uploaded an additional file with the zip codes in NYC. 
-The annual query was designed to retrieve annual relevant data; but i had a problem, the zip codes coordinates were not recognized by Tableau, so i had to include them in que query. However, including variables such as stations and coordinates resulted in an excessively large file size that was impractical for download. Therefore, the coordinates were included in a second query to manage the data more efficiently.
-Finnaly, the summer query was performed without problems.
-</details>
-.
-
-[Zip codes data (here)](Cyclistic_NYC_zip_codes.csv)
-
-
-[Annual Query (here)](Cyclistic_query_2022_2023.txt) 
-
-
-[Zip code coordinates Query (here)](Cyclistic_year_end_lat_long_query.txt)
-
-[Summer Query (here)](Cyclistic_summer_query.txt)
-
-#### 3 - Dashboards
-<details> <summary> Details (click here) </summary> Before creating the dashboards, some calculations were first performed in Tableau </details>  
-.
-
-[Relationships (here)](Data_relationships_tableau.pdf)
-
-[Dashboards in Tableau (here)](https://public.tableau.com/app/profile/francisco.navarro7243/viz/CyclisticBike-ShareTrends/Story1)
-
-#### 4 - Business Sumary
-<details> <summary> Details (click here) </summary> This summary highlights how subscribers and non-subscribers differ in their usage, seasonal trends in bike usage, and the impact of weather conditions. It also provides actionable insights for strategic bike station placement, congestion management, operational adjustments, marketing, and service optimization to enhance overall performance and customer experience. Please follow the link for the full Business Summary. </details>  
-.
-
-[Business Sumary (here) ](Cyclistic_business_summary.pdf)
 
 .
 ### Smart Strategies for a Wellness Technology Company: Analyzing Data from a Health and Fitness Device
