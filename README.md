@@ -37,7 +37,6 @@ _
 - [TikTok: Claims vs. Opinions – Machine Learning for Classifying User Reports](#tiktok-claims-vs-opinions-machine-learning-for-classifying-user-reports)<br>
 <small>Data Cleaning, Exploratory Data Analysis (EDA), Hypothesis Testing, A/B Testing, Logistic Regression, Random Forest, XGBoost, Machine Learning, Python (numpy, pandas, matplotlib, seaborn, Scipy, statsmodels, scikit-learn, pickle)</small>
 
-
 - [Strategic Insights for a Bike Share Company: The Cyclistic Bike-Share Project BI](#strategic-insights-for-a-bike-share-company-the-cyclistic-bike-share-project-bi) <br>
 <small>Data Cleaning and Processing (ETL), Exploratory Data Analysis (EDA), Data Visualization, Dashboard Creation, SQL, Tableau.</small>
 
