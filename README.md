@@ -34,7 +34,7 @@ _
 - [HR project: Predicting Employee Attrition with Machine Learning](#hr-project-predicting-employee-attrition-with-machine-learning)<br>
 <small>Data Cleaning, Exploratory Data Análysis (EDA), Decision Tree, Random Forest, Machine Learning, Python (numpy, pandas, matplotlib, seaborn, plotly, scikit-learn, pickle)</small>
 
-- [TikTok: Claims vs. Opinions – Machine Learning for Classifying User Reports](#tiktok-claims-vs-opinions-machine-learning-for-classifying-user-reports)<br>
+- [TikTok: Claims vs. Opinions. Machine Learning for Classifying User Reports](#tiktok-claims-vs-opinions-machine-learning-for-classifying-user-reports)<br>
 <small>Data Cleaning, Exploratory Data Analysis (EDA), Hypothesis Testing, A/B Testing, Logistic Regression, Random Forest, XGBoost, Machine Learning, Python (numpy, pandas, matplotlib, seaborn, Scipy, statsmodels, scikit-learn, pickle)</small>
 
 - [Strategic Insights for a Bike Share Company: The Cyclistic Bike-Share Project BI](#strategic-insights-for-a-bike-share-company-the-cyclistic-bike-share-project-bi) <br>
@@ -68,7 +68,7 @@ Employee turnover can be costly for businesses. This project analyzes HR data to
 [Click here to access the project](https://github.com/franeze/HR_RandomForestPy)
 
 
-### TikTok: Claims vs. Opinions – Machine Learning for Classifying User Reports
+### TikTok: Claims vs. Opinions. Machine Learning for Classifying User Reports
 <div style="text-align: center;"><img src="tik_tok_logo.jpg" alt="Example Image" width="200"/></div>
 <details> <summary>Scenario (click here)</summary> 
 This fictional  project aims to support TikTok's report system in classifying user reports of videos as either claims or opinions. The analysis begins with preliminary data exploration, followed by exploratory data analysis (EDA) to identify key trends in user engagement. Hypothesis testing, is performed to validate the impact of different factors on video reports. The project then employs machine learning techniques, including Logistic Regression, Random Forest, and XGBoost, to develop a model for classifying reports. Through these models, the project provides insights into improving TikTok’s content moderation system. The dataset used for this project includes variables such as view, like, and comment counts, sourced directly from TikTok’s platform.
