@@ -7,17 +7,17 @@ Transitioning from a career as a Doctoral Researcher and seeking a full-time rol
 
 <div style="text-align: center;">
   <a href="https://www.credly.com/badges/3ddb97db-6a49-4e04-bad1-4398c11deaeb">
-    <img src="google-advanced-data-analytics-certificate.png" alt="google-advanced-data-analytics" width="150" height="126" />
+    <img src="Pictures/google-advanced-data-analytics-certificate.png" alt="google-advanced-data-analytics" width="150" height="126" />
   </a>
   <a href="https://www.credly.com/badges/1b5db2ce-5de7-499a-bbf3-a7b63e490f01/public_url">
-    <img src="google-data-analytics-professional-certificate.2.png" alt="google-data-analytics" width="150" height="126" />
+    <img src="Pictures/google-data-analytics-professional-certificate.2.png" alt="google-data-analytics" width="150" height="126" />
   </a>
   <br>
   <a href="https://www.credly.com/badges/4e804abf-5e80-4f93-9d1a-7b2c2c64c27e/public_url">
-    <img src="google-business-intelligence-certificate.png" alt="google-business-intelligence" width="150" height="126" />
+    <img src="Pictures/google-business-intelligence-certificate.png" alt="google-business-intelligence" width="150" height="126" />
   </a>
   <a href="https://www.credly.com/badges/84f7e9f1-44cc-41d1-90d5-21186a118ccf/public_url">
-    <img src="google-ai-essentials.png" alt="google-ai-essentials" width="150" height="126" />
+    <img src="Pictures/google-ai-essentials.png" alt="google-ai-essentials" width="150" height="126" />
   </a>
 </div>
 
@@ -55,7 +55,7 @@ _
 ### HR project: Predicting Employee Attrition with Machine Learning
 <div style="text-align: center;">
   <a href="https://github.com/franeze/HR_RandomForestPy" target="_blank">
-    <img src="employee_attrition.jpg" alt="Example Image" width="300"/>
+    <img src="Pictures/employee_attrition.jpg" alt="Example Image" width="300"/>
   </a>
 </div>
 <details> <summary>Scenario (click here)</summary>  
@@ -70,7 +70,7 @@ Employee turnover can be costly for businesses. This project analyzes HR data to
 .
 
 ### TikTok: Claims vs. Opinions. Machine Learning for Classifying User Reports
-<div style="text-align: center;"><img src="tik_tok_logo2.jpg" alt="Example Image" width="300"/></div>
+<div style="text-align: center;"><img src="Pictures/tik_tok_logo2.jpg" alt="Example Image" width="300"/></div>
 <details> <summary>Scenario (click here)</summary> 
 This fictional  project aims to support TikTok's report system in classifying user reports of videos as either claims or opinions. The analysis begins with preliminary data exploration, followed by exploratory data analysis (EDA) to identify key trends in user engagement. Hypothesis testing, is performed to validate the impact of different factors on video reports. The project then employs machine learning techniques, including Logistic Regression, Random Forest, and XGBoost, to develop a model for classifying reports. Through these models, the project provides insights into improving TikTok’s content moderation system. The dataset used for this project includes variables such as view, like, and comment counts, sourced directly from TikTok’s platform.
 
@@ -81,7 +81,7 @@ This fictional  project aims to support TikTok's report system in classifying us
 .
 
 ### Business Intelligence project: Strategic Insights for a Bike Share Company
-<div style="text-align: center;"><img src="Bike_Share.jpg" alt="Example Image" width="500"/></div>
+<div style="text-align: center;"><img src="Pictures/Bike_Share.jpg" alt="Example Image" width="500"/></div>
 <details> <summary>Scenario (click here)</summary>  
 In this fictional scenario, with real-world data, I’ve joined the business intelligence team at Cyclistic, a fictional bike-share company in New York City. My role involves applying BI principles to analyze and enhance Cyclistic’s bike usage. I handled the data cleaning and processing through ETL (Extract, Transform, Load) using SQL, ensuring the datasets on bike trips and customer demographics are accurate and ready for analysis. I performed exploratory analysis on real-world data and generated insights that lead to actionable recommendations. I created a dashboard to provide insights into bike demand, considering factors like customer type, peak usage times, and weather conditions.
 
@@ -93,7 +93,7 @@ In this fictional scenario, with real-world data, I’ve joined the business int
 .
 ### Smart Strategies for a Wellness Technology Company: Analyzing Data from a Health and Fitness Device
 
-<div style="text-align: center;"><img src="Wellness_LOGO.png" alt="Example Image" width="200"/></div>
+<div style="text-align: center;"><img src="Pictures/Wellness_LOGO.png" alt="Example Image" width="200"/></div>
 <details> <summary>Scenario (click here)</summary>  
 "In this project, I analyzed smart device usage trends to inform strategic decisions for a wellness technology company. The focus was on understanding user interactions with smart devices, identifying key health and wellness metrics, and exploring correlations between various indicators. The goal was to leverage trends in health monitoring and personalization to guide marketing strategies and enhance product offerings. I used Python for data analysis and visualization, utilizing libraries such as pandas, Seaborn, and Matplotlib to clean, process, and generate insightful charts. The findings were compiled into a comprehensive report in Jupyter Notebook, highlighting how the company can leverage these trends to better engage customers and improve their products."
 
@@ -155,7 +155,7 @@ D. Reporting:
 
 ### Usage Insights for a Fictional Bike Share Company: The Cyclistic Bike-Share Project Data Analysis
 
-<div style="text-align: center;"><img src="Cyclistic_logo.png" alt="Example Image" width="200"/></div>
+<div style="text-align: center;"><img src="Pictures/Cyclistic_logo.png" alt="Example Image" width="200"/></div>
 
 <details> <summary>Scenario (click here)</summary>  
 In this project, I analyzed how annual members and casual riders use Cyclistic bikes differently to develop strategies for increasing annual memberships. The analysis aimed to uncover patterns in bike usage, understand key differences between membership types, and provide actionable insights for a targeted marketing strategy. I used R for data cleaning and analysis, and Tableau to create visualizations in a dashboard to support the findings. I created a report using R Markdown. Additionally, a version of the report created with Jupyter Notebook, which includes data analysis performed using Python, is also included in the project.
@@ -210,7 +210,7 @@ _
 ### Random pH Meter App
 Dive into a bit of scientific fun with this playful pH meter application! Created with Python’s Tkinter and Matplotlib, this app is all about simulating pH measurements with a touch of randomness for entertainment and learning. 
 
-<div style="text-align: center;"><img src="random_pH_logo.png" alt="Example Image" width="200"/></div>
+<div style="text-align: center;"><img src="Pictures/random_pH_logo.png" alt="Example Image" width="200"/></div>
 
 <details><summary>Key features include: (Click here) </summary>
 
