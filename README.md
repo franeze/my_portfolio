@@ -65,7 +65,7 @@ Employee turnover can be costly for businesses. This project analyzes HR data to
 
 </details>
 
-[Click here to access the project](https://github.com/franeze/HR_RandomForestPy/blob/main/HR_RandomForest_porject.ipynb)
+[Click here to access the project](https://github.com/franeze/HR_RandomForestPy/blob/main/README.md)
 
 
 ### TikTok: Claims vs. Opinions. Machine Learning for Classifying User Reports
