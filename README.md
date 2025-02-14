@@ -3,6 +3,8 @@
 
 Transitioning from a career as a Doctoral Researcher and seeking a full-time role in data analytics and BI. Bringing a strong background in research methodologies, data analysis, and statistical techniques, with hands-on experience in Python for data analysis, SQL, R programming, spreadsheets and data visualization.
 
+---
+
 #### Technical Skills: Python, SQL, R, Power BI, Tableau, Statistics
 
 <div style="text-align: center;">
@@ -21,13 +23,15 @@ Transitioning from a career as a Doctoral Researcher and seeking a full-time rol
   </a>
 </div>
 
-_
+---
 
 ## Explore my [Resume Here](Navarro_FE_resume_080225.pdf)   
 <h3 align="right">Connect with me:</h3>
 <p align="right">
 <a href="https://www.linkedin.com/in/francisco-e-navarro/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/francisco-e-navarro/" height="30" width="40" /></a>
 </p>
+
+---
 
 ## Projects and Papers
 ## Index
