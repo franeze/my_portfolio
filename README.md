@@ -175,6 +175,8 @@ Cultures](https://doi.org/10.1007/s12155-021-10349-2) in [BioEnergy Research](ht
 
 [Three-Dimensional Reconstruction of *Halamphora coffeaeformis* Frustule from Scanning Electron Micrographs](https://doi.org/10.1017/S1431927620001154) in  [Microscopy and Microanalysis](https://www.cambridge.org/core/journals/microscopy-and-microanalysis)
 
+---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/francisco-e-navarro/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/francisco-e-navarro/" height="30" width="40" /></a>
