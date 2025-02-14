@@ -52,6 +52,8 @@ _
 - [Published Research](#published-research)
 
 
+---
+
 ### HR project: Predicting Employee Attrition with Machine Learning
 <div style="text-align: center;">
   <a href="https://github.com/franeze/HR_RandomForestPy" target="_blank">
@@ -106,58 +108,16 @@ In this fictional scenario, with real-world data, I’ve joined the business int
 
 ### Usage Insights for a Fictional Bike Share Company: The Cyclistic Bike-Share Project Data Analysis
 
-<div style="text-align: center;"><img src="Pictures/Cyclistic_logo.png" alt="Example Image" width="200"/></div>
+<div style="text-align: center;"><img src="Pictures/Cyclistic_logo.png" alt="Example Image" width="300"/></div>
 
 <details> <summary>Scenario (click here)</summary>  
 In this project, I analyzed how annual members and casual riders use Cyclistic bikes differently to develop strategies for increasing annual memberships. The analysis aimed to uncover patterns in bike usage, understand key differences between membership types, and provide actionable insights for a targeted marketing strategy. I used R for data cleaning and analysis, and Tableau to create visualizations in a dashboard to support the findings. I created a report using R Markdown. Additionally, a version of the report created with Jupyter Notebook, which includes data analysis performed using Python, is also included in the project.
 
 </details>
-.
 
-#### 1 - Key Objectives:
-<details> <summary> (click here) </summary>
+[Click here to access the project]( https://github.com/franeze/BikeShare_DA/blob/main/README.md)
 
-1 - Analyze Usage Patterns: Explore and compare the usage behavior of annual members versus casual riders.
-
-  
-2 - Identify Trends: Determine patterns in bike usage, including frequency, duration, and time of day.
-
-
-3 - Develop Strategies: Formulate recommendations to convert casual riders into annual members based on data-driven insights. 
-</details>
-.
-
-#### 2 - Methodology:
-<details> <summary> (click here) </summary>
-The project utilized data analysis techniques to clean, transform, and visualize the data. Key steps included:
-
-1 - Data Cleaning: Addressed inconsistencies and missing values.
-
-2 - Exploratory Data Analysis: Conducted descriptive and statistical analyses to identify usage trends.
-
-3 - Visualization: Created visualizations to effectively communicate findings.
-
-4 - Reporting: Documented the analysis process and results to support strategic recommendations.
-
-</details>
-.
-
-#### 3 - Outcome:
-<details> <summary> (click here) </summary> The findings provided a comprehensive understanding of bike usage patterns, highlighting opportunities for targeted marketing initiatives and membership growth. The project demonstrates proficiency in data analysis, visualization, and strategic planning. </details>  
-.
-
-#### 4 - Report
-[Look at the report in R (Click here)](Data_Analysys_REPORT_Cyclistic_bike_share.pdf)
-
-[Look at the report in Python (Click here)](Cyclistic_Bike_Share_Client_Usage_Report.pdf)
-
-#### 5 - Dashboard
-
-For a more comprehensive analysis, I created a dashboard in Power BI [Click here to see it.](https://app.powerbi.com/view?r=eyJrIjoiNjJlNDQ1MGYtMjVmOS00NDY5LWI0NjEtNzc2ODZiM2I5OGNlIiwidCI6ImEyZTJiYTY0LWUwNTQtNDMxYS1hNWIyLTg5MjJmZjIyN2U3OSIsImMiOjR9)
-
-Additionally, I created a dashboard in Tableau. [Click here to see it](https://public.tableau.com/app/profile/francisco.navarro7243/viz/CiclysticBike-Share/Dashboard1). 
-
-_
+---
 ### Random pH Meter App
 Dive into a bit of scientific fun with this playful pH meter application! Created with Python’s Tkinter and Matplotlib, this app is all about simulating pH measurements with a touch of randomness for entertainment and learning. 
 
