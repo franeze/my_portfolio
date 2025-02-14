@@ -31,27 +31,27 @@ Transitioning from academia to industry, with strong expertise in data analysis,
 
 <div style="width: 48%;">
 
-- Strong analytical skills
+- Strong analytical skills..........
   
-- Relational databases and SQL
+- Relational databases and SQL......
   
-- Exploratory Data Analysis (EDA)
+- Exploratory Data Analysis (EDA)...
   
-- Statistical Analysis
+- Statistical Analysis..............
   
-- Regression analysis  
+- Regression analysis...............  
 
 </div>
 
 <div style="width: 48%;">
 
-- Modeling
+- Modeling..........................
 
-- Machine Learning
+- Machine Learning..................
   
-- Strong data visualization skills
+- Strong data visualization skills..
   
-- Python, R, Power BI, and Tableau
+- Python, R, Power BI, and Tableau..
 
 </div>
 
