@@ -93,7 +93,7 @@ In this fictional scenario, with real-world data, I’ve joined the business int
 .
 ### Smart Strategies for a Wellness Technology Company: Analyzing Data from a Health and Fitness Device
 
-<div style="text-align: center;"><img src="Pictures/Wellness_LOGO.png" alt="Example Image" width="200"/></div>
+<div style="text-align: center;"><img src="Pictures/Wellness_LOGO.png" alt="Example Image" width="300"/></div>
 <details> <summary>Scenario (click here)</summary>  
 "In this project, I analyzed smart device usage trends to inform strategic decisions for a wellness technology company. The focus was on understanding user interactions with smart devices, identifying key health and wellness metrics, and exploring correlations between various indicators. The goal was to leverage trends in health monitoring and personalization to guide marketing strategies and enhance product offerings. I used Python for data analysis and visualization, utilizing libraries such as pandas, Seaborn, and Matplotlib to clean, process, and generate insightful charts. The findings were compiled into a comprehensive report in Jupyter Notebook, highlighting how the company can leverage these trends to better engage customers and improve their products."
 
