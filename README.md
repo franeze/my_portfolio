@@ -1,11 +1,11 @@
 
 # Data Analyst/ Jr. Data Scientist - PhD
 
-Transitioning from a career as a Doctoral Researcher and seeking a full-time role in data analytics and BI. Bringing a strong background in research methodologies, data analysis, and statistical techniques, with hands-on experience in Python for data analysis, SQL, R programming, spreadsheets and data visualization.
+Transitioning from academia to industry, with strong expertise in data analysis, data visualization, and statistical analysis. Proficient in SQL, Python, R, and BI tools (Tableau, Power BI) for data exploration, modeling, and storytelling. Experienced in analyzing large datasets, deriving insights, and presenting findings. Skilled in A/B testing, regression analysis, statistics and modeling. Recently earned the Google Advanced Data Analytics Certificate, enhancing my expertise in machine learning, predictive modeling, and data-driven decision-making. 
 
 ---
 
-#### Technical Skills: Python, SQL, R, Power BI, Tableau, Statistics
+
 
 <div style="text-align: center;">
   <a href="https://www.credly.com/badges/3ddb97db-6a49-4e04-bad1-4398c11deaeb">
@@ -22,6 +22,40 @@ Transitioning from a career as a Doctoral Researcher and seeking a full-time rol
     <img src="Pictures/google-ai-essentials.png" alt="google-ai-essentials" width="150" height="126" />
   </a>
 </div>
+
+---
+
+#### Technical Skills: 
+
+<table>
+  <tr>
+    <td>
+
+- Strong analytical skills  
+- Relational databases and SQL  
+- Exploratory Data Analysis (EDA)  
+
+    </td>
+    <td>
+
+- Statistical Analysis  
+- Regression analysis  
+- Modeling  
+
+    </td>
+    <td>
+
+- Machine Learning  
+- Strong data visualization skills  
+- Python, R, Power BI, and Tableau  
+
+    </td>
+  </tr>
+</table>
+
+
+
+
 
 ---
 
