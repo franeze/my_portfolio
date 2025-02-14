@@ -57,7 +57,7 @@ Transitioning from academia to industry, with strong expertise in data analysis,
 
 </div>
 
-
+<br>
 
 ---
 
