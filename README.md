@@ -142,7 +142,7 @@ This application is designed for fun and educational purposes, providing a simul
 .
 To access the code [click here](pHCSV.py)
 
-_
+---
 
 ### **Power BI** 
 #### Project 1: City Bike-Share Client Usage Trends
@@ -155,6 +155,7 @@ _
 
 [View Profile](https://public.tableau.com/app/profile/francisco.navarro7243/vizzes) 
 
+---
 
 ## **Published Research**
 
