@@ -5,7 +5,7 @@ Transitioning from academia to industry, with strong expertise in data analysis,
 
 ---
 
-
+#### Certificartes
 
 <div style="text-align: center;">
   <a href="https://www.credly.com/badges/3ddb97db-6a49-4e04-bad1-4398c11deaeb">
