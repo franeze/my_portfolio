@@ -27,38 +27,28 @@ Transitioning from academia to industry, with strong expertise in data analysis,
 
 #### Technical Skills: 
 
-<table>
-  <tr>
-    <td>
+<div style="display: flex; justify-content: space-between;">
 
-- Strong analytical skills
-  
-- Relational databases and SQL
-- 
-- Exploratory Data Analysis (EDA)
-  
-- Statistical Analysis
-  
-- Regression analysis
-  
+<div style="width: 48%;">
 
-    </td>
-    <td>
+- **Strong analytical skills**  
+- **Relational databases and SQL**  
+- **Exploratory Data Analysis (EDA)**  
+- **Statistical Analysis**  
+- **Regression analysis**  
 
-- Modeling
-  
-- Machine Learning
-  
-- Data visualization skills
-  
-- Python, R, Power BI, and Tableau  
+</div>
 
-    </td>
-  </tr>
-</table>
+<div style="width: 48%;">
 
+- **Modeling**  
+- **Machine Learning**  
+- **Strong data visualization skills**  
+- **Python, R, Power BI, and Tableau**  
 
+</div>
 
+</div>
 
 
 
