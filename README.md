@@ -71,6 +71,9 @@ Transitioning from academia to industry, with strong expertise in data analysis,
 
 ## Projects and Papers
 ## Index
+- [Microalgae project: Machine Learning-Based Biomass Prediction from Environmental and Physicochemical Variables](#microalgae-project-machine-learning-based-biomass-prediction-from-environmental-and-physicochemical-variables)<br>
+<small>Exploratory Data Analysis (EDA), Feature Selection, Multicollinearity, Linear Regression, Random Forest, XGBoost, Hyperparameter Tuning, Machine Learning, Python (numpy, pandas, matplotlib, seaborn, scikit-learn, xgboost)</small>
+
 - [HR project: Predicting Employee Attrition with Machine Learning](#hr-project-predicting-employee-attrition-with-machine-learning)<br>
 <small>Data Cleaning, Exploratory Data Análysis (EDA), Decision Tree, Random Forest, Machine Learning, Python (numpy, pandas, matplotlib, seaborn, plotly, scikit-learn, pickle)</small>
 
@@ -93,6 +96,23 @@ Transitioning from academia to industry, with strong expertise in data analysis,
 
 
 ---
+
+### Microalgae project: Machine Learning-Based Biomass Prediction from Environmental and Physicochemical Variables
+<div style="text-align: center;">
+  <a href="https://github.com/franeze/Microalgae_Biomass_MachineLearningPrediction" target="_blank">
+    <img src="Pictures/AI-Generated-PBR.png" alt="Microalgae Photobioreactor" width="300"/>
+  </a>
+</div>
+<details> <summary>Scenario (click here)</summary>  
+
+Accurate biomass estimation in microalgae cultivation is challenging using traditional methods. This project applies machine learning to predict biomass from environmental and physicochemical variables, using Linear Regression, Random Forest, and XGBoost. Results show strong performance and capture non-linear biological dynamics, enabling more efficient process monitoring.
+
+
+</details>
+
+[Click here to access the project](https://github.com/franeze/Microalgae_Biomass_MachineLearningPrediction/blob/main/README.md)
+
+.
 
 ### HR project: Predicting Employee Attrition with Machine Learning
 <div style="text-align: center;">
