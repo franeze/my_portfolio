@@ -61,7 +61,7 @@ Transitioning from academia to industry, with strong expertise in data analysis,
 
 ---
 
-## Explore my [Resume Here](Navarro_FE_resume_080225.pdf)   
+## Explore my [Resume Here](Navarro_FE_resume_040726.pdf)   
 <h3 align="right">Connect with me:</h3>
 <p align="right">
 <a href="https://www.linkedin.com/in/francisco-e-navarro/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/francisco-e-navarro/" height="30" width="40" /></a>
